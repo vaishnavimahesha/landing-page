@@ -1,0 +1,64 @@
+body {
+    color: #000;
+    overflow-x: hidden;
+    height: 100%;
+    background-color: #4d136ee7;
+    
+}
+
+.card0 {
+    border-radius: 0;
+    border: none;
+    width:50%
+    position:relative;  
+}
+
+.column{
+    align-content: center;
+}
+
+
+.head{
+    background-color: none;
+}
+
+.t1{
+    color:rgb(31, 5, 145);
+}
+
+.t2{
+    color:rgb(247, 190, 6)
+}
+
+.t3{
+    color:rgb(150, 47, 150)
+}
+
+.ptop{
+    margin-top:180px
+}
+
+.colour{
+    color:black;
+}
+
+
+#logo {
+    width: 70px;
+    height: 60px
+}
+
+.heading {
+    margin-bottom: 60px !important
+}
+
+
+.bottom {
+    width: 100%;
+    margin-top: 50px !important
+}
+
+.sm-text {
+    font-size: 15px
+}
+
